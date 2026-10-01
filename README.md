@@ -15,3 +15,4 @@ batch-processing tools and flexible naming rules.
 - Numbering
 - Naming patterns
 - One-click project-wide processing
+-YOUTUBE DEMO:https://youtu.be/3hH03BoMZYo
