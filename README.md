@@ -1,18 +1,37 @@
-# CROSSAIR-Smart-Mass-Renamer-PRO
-A powerful Unity Editor tool for batch-renaming objects across all scenes in a project with flexible rules, patterns, and one-click processing.
+# CROSSAIR-Smart-Mass-Renamer-PRO-PROJECT WIDE UNITY TOOL
+Developed a Unity Editor tool for quickly finding, previewing, and renaming multiple GameObjects using professional naming rules.
 
-### Project-wide object renaming for Unity
+The tool allows developers to search objects by keyword, add selected objects manually, preview new names before applying changes, and rename large object groups with automatic numbering and padding.
 
-Rename objects across multiple scenes with powerful
-batch-processing tools and flexible naming rules.
+Key features:
+• Search matching GameObjects by keyword
+• Add selected objects manually
+• Rename multiple objects at once
+• Preview names before applying changes
+• Custom base name
+• Start index control
+• Number padding
+• Include child objects
+• Undo support
+• Clean Unity Editor workflow
 
-## Features
+The goal of this project was to reduce repetitive manual renaming work and improve organization in large Unity scenes.
 
-- Rename objects across all scenes
-- Batch rename
-- Prefix & suffix
-- Find & replace
-- Numbering
-- Naming patterns
-- One-click project-wide processing
+
+Technical Details
+Unity Version:
+2021.3 LTS+
+2022 LTS+
+Unity 6
+
+Render Pipelines:
+Built-in
+URP
+HDRP
+
+Dependencies:
+None
+
+Runtime:
+No
 -YOUTUBE DEMO:https://youtu.be/3hH03BoMZYo
